@@ -1,0 +1,7 @@
+.thumbnail > img {
+  height: 125px;
+}
+
+#gallery button.btn.btn-sm {
+  margin: 2em 0 0;
+}
